@@ -33,3 +33,7 @@ Make sure you have installed the above requirements.
 4. Make a touch gesture by bringing your thumb in contact with the tip of your index finger.
 5. Every third touch, the program will automatically open Spotify and navigate to the playlists.
 6. Press 'q' on the keyboard to exit the program.
+
+## Support me
+
+<a href="https://www.buymeacoffee.com/SmakeMeMo" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/black_img.png" alt="Buy Me A Coffee">
